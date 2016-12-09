@@ -131,4 +131,61 @@
 
 ![](http://7xqvel.com1.z0.glb.clouddn.com/ONE-index.gif?imageView2/2/w/320)![](http://7xqvel.com1.z0.glb.clouddn.com/ONE-reading.gif?imageView2/2/w/320)![](http://7xqvel.com1.z0.glb.clouddn.com/ONE-music.gif?imageView2/2/w/320)![](http://7xqvel.com1.z0.glb.clouddn.com/ONE-movie.gif?imageView2/2/w/320)
 
+## [16. 微信小程序图表charts组件（#工具 #图标 #charts）](https://github.com/hawx1993/wxapp-charts)
+
+![](demo1.png)
+
+![](demo2.png)
+
+>手机端效果
+
+![](WechatIMG111.png)
+
+![](WechatIMG112.png)
+
+## [17. 微信小程序 —— 新闻阅读器（#新闻 #咨询 #网易新闻）](https://github.com/vace/wechatapp-news-reader)
+
+<img style="margin:10px" width="320" src="screenshots/demo1.png" alt="主页页面">
+<img style="margin:10px" width="320" src="screenshots/demo2.png" alt="设置页面">
+<img style="margin:10px" width="320" src="screenshots/demo3.png" alt="专题页面">
+<img style="margin:10px" width="320" src="screenshots/demo4.png" alt="专题列表页面">
+<img style="margin:10px" width="320" src="screenshots/demo5.png" alt="详情页面">
+<img style="margin:10px" width="320" src="screenshots/demo6.png" alt="发现">
+
+## [18. 医药网原生APP的微信小程序DEMO（#医药 #电商）](https://github.com/jiabinxu/yiyaowang-wx)
+![image](https://github.com/jiabinxu/yiyaowang-wx/blob/master/%E5%A3%B9%E8%8D%AF%E7%BD%911.gif)
+
+## [19. 微信小程序版 百思不得姐（#资讯 #娱乐）](https://github.com/ZhangHangwei/WXBaiSi)
+
+首页
+![](ScreenSnap/首页_全部.png)
+![](ScreenSnap/首页视频.png)
+
+推荐关注
+![](ScreenSnap/推荐关注.png)
+
+评论列表
+![](ScreenSnap/评论.png)
+
+关注
+![](ScreenSnap/关注.png)
+
+我的
+![](ScreenSnap/我的.png)
+
+登录
+![](ScreenSnap/登录.png)
+
+
+## [20. Wechat-dribbble（#图片 #展示）](https://github.com/zzetao/wechat-dribbble)
+![wechat-dribbble-screenshots](http://ob513h52u.bkt.clouddn.com/temp/wechat-dribbble-screenshots.png)
+
+## [21. 微信小程序--逗乐（#社区 #资讯）](https://github.com/mkxiansheng/doule)
+
+![](http://ww3.sinaimg.cn/mw690/0061pRNogw1fae0mt58s2g308w0fa15x.gif)
+![](http://ww4.sinaimg.cn/mw690/0061pRNogw1fae0m09tfkg308w0fa765.gif)
+![](http://ww2.sinaimg.cn/mw690/0061pRNogw1fae0llqgxsg308w0fagoh.gif)
+
+## []()
+## []()
 .....未完待续.....
